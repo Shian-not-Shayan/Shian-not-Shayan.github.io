@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>色彩集 · 一</title>
+    <url>/2022/09/01/%E8%89%B2%E5%BD%A9%E9%9B%86-%C2%B7-%E4%B8%80/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>好的呢！</category>
+      </categories>
+      <tags>
+        <tag>好唔！</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2022/08/28/hello-world/</url>
     <content><![CDATA[<span id="more"></span>
@@ -18,17 +29,6 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>色彩集 · 一</title>
-    <url>/2022/09/01/%E8%89%B2%E5%BD%A9%E9%9B%86-%C2%B7-%E4%B8%80/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>好的呢！</category>
-      </categories>
-      <tags>
-        <tag>好唔！</tag>
-      </tags>
   </entry>
   <entry>
     <title>逃离滑铁卢CS Double Degree</title>
