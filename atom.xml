@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-09-04T10:57:19.124Z</updated>
+  <updated>2022-09-04T11:14:28.250Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>结构性磨损与在所难免的失败 - 从《花束般的恋爱》出发浅析恋爱方法</title>
+    <link href="http://example.com/2022/09/04/%E7%BB%93%E6%9E%84%E6%80%A7%E7%A3%A8%E6%8D%9F%E4%B8%8E%E5%9C%A8%E6%89%80%E9%9A%BE%E5%85%8D%E7%9A%84%E5%A4%B1%E8%B4%A5-%E4%BB%8E%E3%80%8A%E8%8A%B1%E6%9D%9F%E8%88%AC%E7%9A%84%E6%81%8B%E7%88%B1%E3%80%8B%E5%87%BA%E5%8F%91%E6%B5%85%E6%9E%90%E6%81%8B%E7%88%B1%E6%96%B9%E6%B3%95/"/>
+    <id>http://example.com/2022/09/04/%E7%BB%93%E6%9E%84%E6%80%A7%E7%A3%A8%E6%8D%9F%E4%B8%8E%E5%9C%A8%E6%89%80%E9%9A%BE%E5%85%8D%E7%9A%84%E5%A4%B1%E8%B4%A5-%E4%BB%8E%E3%80%8A%E8%8A%B1%E6%9D%9F%E8%88%AC%E7%9A%84%E6%81%8B%E7%88%B1%E3%80%8B%E5%87%BA%E5%8F%91%E6%B5%85%E6%9E%90%E6%81%8B%E7%88%B1%E6%96%B9%E6%B3%95/</id>
+    <published>2022-09-04T11:10:19.000Z</published>
+    <updated>2022-09-04T11:14:28.250Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;（正文受众为已食用过正片的观众，其他朋友可直接跳到《巨树上行》。）&lt;/p&gt;
+&lt;p&gt;《花束》的结构常常被大众解析为某种契合而近完美的亲密关系模式在外部世俗世界持久压力下令人遗憾的破碎。这一视角显著的问题在于，它忽略了某些元视角下的结构性生活矛盾乃至恋爱模式本身的缺陷，以至于无</summary>
+        
+      
+    
+    
+    
+    <category term="中文写作" scheme="http://example.com/categories/%E4%B8%AD%E6%96%87%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="影评" scheme="http://example.com/categories/%E4%B8%AD%E6%96%87%E5%86%99%E4%BD%9C/%E5%BD%B1%E8%AF%84/"/>
+    
+    
+    <category term="中文写作" scheme="http://example.com/tags/%E4%B8%AD%E6%96%87%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="影评" scheme="http://example.com/tags/%E5%BD%B1%E8%AF%84/"/>
+    
+  </entry>
   
   <entry>
     <title>我不</title>
@@ -48,7 +78,7 @@
     <link href="http://example.com/2022/09/03/%E9%80%83%E7%A6%BB%E6%BB%91%E9%93%81%E5%8D%A2CS-Double-Degree/"/>
     <id>http://example.com/2022/09/03/%E9%80%83%E7%A6%BB%E6%BB%91%E9%93%81%E5%8D%A2CS-Double-Degree/</id>
     <published>2022-09-03T06:56:04.000Z</published>
-    <updated>2022-09-04T03:21:42.609Z</updated>
+    <updated>2022-09-04T11:15:01.569Z</updated>
     
     
     <summary type="html">&lt;p&gt;我小时候天真地以为自己是个critical thinker。  &lt;/p&gt;
@@ -57,8 +87,12 @@
     
     
     
-    <category term="中文博客" scheme="http://example.com/categories/%E4%B8%AD%E6%96%87%E5%8D%9A%E5%AE%A2/"/>
+    <category term="中文写作" scheme="http://example.com/categories/%E4%B8%AD%E6%96%87%E5%86%99%E4%BD%9C/"/>
     
+    <category term="中文博客" scheme="http://example.com/categories/%E4%B8%AD%E6%96%87%E5%86%99%E4%BD%9C/%E4%B8%AD%E6%96%87%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="中文写作" scheme="http://example.com/tags/%E4%B8%AD%E6%96%87%E5%86%99%E4%BD%9C/"/>
     
     <category term="中文博客" scheme="http://example.com/tags/%E4%B8%AD%E6%96%87%E5%8D%9A%E5%AE%A2/"/>
     
@@ -86,7 +120,7 @@
     <link href="http://example.com/2022/04/30/%E7%8B%82%E6%80%92%E7%BB%BD%E6%94%BE/"/>
     <id>http://example.com/2022/04/30/%E7%8B%82%E6%80%92%E7%BB%BD%E6%94%BE/</id>
     <published>2022-04-30T04:25:06.000Z</published>
-    <updated>2022-09-04T04:18:30.892Z</updated>
+    <updated>2022-09-04T11:15:16.695Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;strong&gt;歌舞升平小王子&amp;#x2F;公主们确实不为无关人等的苦难负任何责任。&lt;/strong&gt;只是说，在那些无眠的夜里我的朋友们或冷静地或痛哭着向我敞开，我清楚地看见有多少伤口一直以来都在流血。它们中的很多再也不会痊愈。  &lt;/p&gt;
@@ -95,8 +129,12 @@
     
     
     
-    <category term="中文博客" scheme="http://example.com/categories/%E4%B8%AD%E6%96%87%E5%8D%9A%E5%AE%A2/"/>
+    <category term="中文写作" scheme="http://example.com/categories/%E4%B8%AD%E6%96%87%E5%86%99%E4%BD%9C/"/>
     
+    <category term="中文博客" scheme="http://example.com/categories/%E4%B8%AD%E6%96%87%E5%86%99%E4%BD%9C/%E4%B8%AD%E6%96%87%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="中文写作" scheme="http://example.com/tags/%E4%B8%AD%E6%96%87%E5%86%99%E4%BD%9C/"/>
     
     <category term="中文博客" scheme="http://example.com/tags/%E4%B8%AD%E6%96%87%E5%8D%9A%E5%AE%A2/"/>
     
