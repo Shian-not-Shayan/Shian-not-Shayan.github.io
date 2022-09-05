@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-09-04T12:09:43.606Z</updated>
+  <updated>2022-09-05T17:40:31.859Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,63 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>讨论，视角与疆界</title>
-    <link href="http://example.com/2022/09/04/%E8%AE%A8%E8%AE%BA%EF%BC%8C%E8%A7%86%E8%A7%92%E4%B8%8E%E7%96%86%E7%95%8C/"/>
-    <id>http://example.com/2022/09/04/%E8%AE%A8%E8%AE%BA%EF%BC%8C%E8%A7%86%E8%A7%92%E4%B8%8E%E7%96%86%E7%95%8C/</id>
-    <published>2022-09-04T12:04:20.000Z</published>
-    <updated>2022-09-04T12:09:43.606Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;我和对象讨论问题时会出现的一件很有意思的事情：在一次涉及某个多层面过程的讨论中，她的视角在整个讨论过程中有时会毫无征兆地切换。而我因为完全无法预料这种视角转换，往往会试图寻找她几条具体话语的深层逻辑结构，然后以一种尽可能相同的范式作出回应。由于她的视角已经转换（比如从现象分析到个人感受）而我的还停在原地（且她对这件事毫无觉知），我的回应常常被解读为一种包含动机的社会行为而非无潜台词的言语本身。&lt;/p&gt;
-&lt;p&gt;——知识诅咒（或者信息诅咒）的一个有趣案例，且极为重要。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="论述文" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
-    
-    
-    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="论述文" scheme="http://example.com/tags/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>结构性磨损与在所难免的失败 - 从《花束般的恋爱》出发浅析恋爱方法</title>
-    <link href="http://example.com/2022/09/04/%E7%BB%93%E6%9E%84%E6%80%A7%E7%A3%A8%E6%8D%9F%E4%B8%8E%E5%9C%A8%E6%89%80%E9%9A%BE%E5%85%8D%E7%9A%84%E5%A4%B1%E8%B4%A5-%E4%BB%8E%E3%80%8A%E8%8A%B1%E6%9D%9F%E8%88%AC%E7%9A%84%E6%81%8B%E7%88%B1%E3%80%8B%E5%87%BA%E5%8F%91%E6%B5%85%E6%9E%90%E6%81%8B%E7%88%B1%E6%96%B9%E6%B3%95/"/>
-    <id>http://example.com/2022/09/04/%E7%BB%93%E6%9E%84%E6%80%A7%E7%A3%A8%E6%8D%9F%E4%B8%8E%E5%9C%A8%E6%89%80%E9%9A%BE%E5%85%8D%E7%9A%84%E5%A4%B1%E8%B4%A5-%E4%BB%8E%E3%80%8A%E8%8A%B1%E6%9D%9F%E8%88%AC%E7%9A%84%E6%81%8B%E7%88%B1%E3%80%8B%E5%87%BA%E5%8F%91%E6%B5%85%E6%9E%90%E6%81%8B%E7%88%B1%E6%96%B9%E6%B3%95/</id>
-    <published>2022-09-04T11:10:19.000Z</published>
-    <updated>2022-09-04T12:09:20.001Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;（正文受众为已食用过正片的观众，其他朋友可直接跳到《巨树上行》。）&lt;/p&gt;
-&lt;p&gt;《花束》的结构常常被大众解析为某种契合而近完美的亲密关系模式在外部世俗世界持久压力下令人遗憾的破碎。这一视角显著的问题在于，它忽略了某些元视角下的结构性生活矛盾乃至恋爱模式本身的缺陷，以至于无法在方法层面提供任何参考价值。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="论述文" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
-    
-    <category term="影评" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E8%AE%BA%E8%BF%B0%E6%96%87/%E5%BD%B1%E8%AF%84/"/>
-    
-    
-    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="影评" scheme="http://example.com/tags/%E5%BD%B1%E8%AF%84/"/>
-    
-    <category term="论述文" scheme="http://example.com/tags/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
-    
-  </entry>
-  
-  <entry>
     <title>我不</title>
-    <link href="http://example.com/2022/09/04/%E6%88%91%E4%B8%8D/"/>
-    <id>http://example.com/2022/09/04/%E6%88%91%E4%B8%8D/</id>
-    <published>2022-09-04T10:45:37.000Z</published>
-    <updated>2022-09-05T09:55:45.771Z</updated>
+    <link href="http://example.com/2022/08/27/%E6%88%91%E4%B8%8D/"/>
+    <id>http://example.com/2022/08/27/%E6%88%91%E4%B8%8D/</id>
+    <published>2022-08-27T10:45:37.000Z</published>
+    <updated>2022-09-05T17:40:31.859Z</updated>
     
     
     <summary type="html">&lt;p&gt;如果 土地上所有的共同生产&lt;/p&gt;
@@ -94,31 +42,6 @@
     <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
     
     <category term="诗歌" scheme="http://example.com/tags/%E8%AF%97%E6%AD%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>逃离滑铁卢CS Double Degree</title>
-    <link href="http://example.com/2022/09/03/%E9%80%83%E7%A6%BB%E6%BB%91%E9%93%81%E5%8D%A2CS-Double-Degree/"/>
-    <id>http://example.com/2022/09/03/%E9%80%83%E7%A6%BB%E6%BB%91%E9%93%81%E5%8D%A2CS-Double-Degree/</id>
-    <published>2022-09-03T06:56:04.000Z</published>
-    <updated>2022-09-04T11:28:36.693Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;我小时候天真地以为自己是个critical thinker。  &lt;/p&gt;
-&lt;p&gt;我小一就看完四大名著原版里的三本。我初中英文老师以为我在外面上进阶英文课。我初一能看完梦的解析跟一个咨询师阿姨聊弗洛伊德聊得有来有回。我自己对宏观世界建构的体系让家里长辈以为我读过混沌理论。我独立发现过至少三个后来阅读中碰到的学术概念。我跟同龄人乃至成年人吵架就没有吵输过。  &lt;/p&gt;
-&lt;p&gt;于是我天真地以为自己是个critical thinker。  &lt;/p&gt;</summary>
-    
-    
-    
-    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="博客" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
@@ -188,6 +111,58 @@
     <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
     
     <category term="诗歌" scheme="http://example.com/tags/%E8%AF%97%E6%AD%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>结构性磨损与在所难免的失败 - 从《花束般的恋爱》出发浅析恋爱方法</title>
+    <link href="http://example.com/2022/08/04/%E7%BB%93%E6%9E%84%E6%80%A7%E7%A3%A8%E6%8D%9F%E4%B8%8E%E5%9C%A8%E6%89%80%E9%9A%BE%E5%85%8D%E7%9A%84%E5%A4%B1%E8%B4%A5-%E4%BB%8E%E3%80%8A%E8%8A%B1%E6%9D%9F%E8%88%AC%E7%9A%84%E6%81%8B%E7%88%B1%E3%80%8B%E5%87%BA%E5%8F%91%E6%B5%85%E6%9E%90%E6%81%8B%E7%88%B1%E6%96%B9%E6%B3%95/"/>
+    <id>http://example.com/2022/08/04/%E7%BB%93%E6%9E%84%E6%80%A7%E7%A3%A8%E6%8D%9F%E4%B8%8E%E5%9C%A8%E6%89%80%E9%9A%BE%E5%85%8D%E7%9A%84%E5%A4%B1%E8%B4%A5-%E4%BB%8E%E3%80%8A%E8%8A%B1%E6%9D%9F%E8%88%AC%E7%9A%84%E6%81%8B%E7%88%B1%E3%80%8B%E5%87%BA%E5%8F%91%E6%B5%85%E6%9E%90%E6%81%8B%E7%88%B1%E6%96%B9%E6%B3%95/</id>
+    <published>2022-08-04T11:10:19.000Z</published>
+    <updated>2022-09-05T17:42:57.209Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;（正文受众为已食用过正片的观众，其他朋友可直接跳到《巨树上行》。）&lt;/p&gt;
+&lt;p&gt;《花束》的结构常常被大众解析为某种契合而近完美的亲密关系模式在外部世俗世界持久压力下令人遗憾的破碎。这一视角显著的问题在于，它忽略了某些元视角下的结构性生活矛盾乃至恋爱模式本身的缺陷，以至于无法在方法层面提供任何参考价值。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="论述文" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
+    
+    <category term="影评" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E8%AE%BA%E8%BF%B0%E6%96%87/%E5%BD%B1%E8%AF%84/"/>
+    
+    
+    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="影评" scheme="http://example.com/tags/%E5%BD%B1%E8%AF%84/"/>
+    
+    <category term="论述文" scheme="http://example.com/tags/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>讨论，视角与疆界</title>
+    <link href="http://example.com/2022/07/06/%E8%AE%A8%E8%AE%BA%EF%BC%8C%E8%A7%86%E8%A7%92%E4%B8%8E%E7%96%86%E7%95%8C/"/>
+    <id>http://example.com/2022/07/06/%E8%AE%A8%E8%AE%BA%EF%BC%8C%E8%A7%86%E8%A7%92%E4%B8%8E%E7%96%86%E7%95%8C/</id>
+    <published>2022-07-06T12:04:20.000Z</published>
+    <updated>2022-09-05T17:43:32.409Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;我和对象讨论问题时会出现的一件很有意思的事情：在一次涉及某个多层面过程的讨论中，她的视角在整个讨论过程中有时会毫无征兆地切换。而我因为完全无法预料这种视角转换，往往会试图寻找她几条具体话语的深层逻辑结构，然后以一种尽可能相同的范式作出回应。由于她的视角已经转换（比如从现象分析到个人感受）而我的还停在原地（且她对这件事毫无觉知），我的回应常常被解读为一种包含动机的社会行为而非无潜台词的言语本身。&lt;/p&gt;
+&lt;p&gt;——知识诅咒（或者信息诅咒）的一个有趣案例，且极为重要。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="论述文" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
+    
+    
+    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="论述文" scheme="http://example.com/tags/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
     
   </entry>
   
@@ -351,6 +326,31 @@
     <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
     
     <category term="诗歌" scheme="http://example.com/tags/%E8%AF%97%E6%AD%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>逃离滑铁卢CS Double Degree</title>
+    <link href="http://example.com/2022/05/18/%E9%80%83%E7%A6%BB%E6%BB%91%E9%93%81%E5%8D%A2CS-Double-Degree/"/>
+    <id>http://example.com/2022/05/18/%E9%80%83%E7%A6%BB%E6%BB%91%E9%93%81%E5%8D%A2CS-Double-Degree/</id>
+    <published>2022-05-18T06:56:04.000Z</published>
+    <updated>2022-09-05T17:42:12.478Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;（又名：什么傻x有钱不赚天天做白日梦）（指我自己）&quot;&gt;&lt;a href=&quot;#（又名：什么傻x有钱不赚天天做白日梦）（指我自己）&quot; class=&quot;headerlink&quot; title=&quot;（又名：什么傻x有钱不赚天天做白日梦）（指我自己）&quot;&gt;&lt;/a&gt;（又名：什么傻x有钱不赚天天做白日梦）（指我自己）&lt;/h2&gt;&lt;p&gt;我小时候天真地以为自己是个critical thinker。  &lt;/p&gt;
+&lt;p&gt;我小一就看完四大名著原版里的三本。我初中英文老师以为我在外面上进阶英文课。我初一能看完梦的解析跟一个咨询师阿姨聊弗洛伊德聊得有来有回。我自己对宏观世界建构的体系让家里长辈以为我读过混沌理论。我独立发现过至少三个后来阅读中碰到的学术概念。我跟同龄人乃至成年人吵架就没有吵输过。  &lt;/p&gt;
+&lt;p&gt;于是我天真地以为自己是个critical thinker。  &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="博客" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
