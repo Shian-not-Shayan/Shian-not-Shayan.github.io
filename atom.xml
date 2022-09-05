@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-09-04T12:15:19.369Z</updated>
+  <updated>2022-09-05T09:42:18.439Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,57 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>雨压</title>
+    <link href="http://example.com/2022/09/05/%E9%9B%A8%E5%8E%8B/"/>
+    <id>http://example.com/2022/09/05/%E9%9B%A8%E5%8E%8B/</id>
+    <published>2022-09-05T09:37:40.000Z</published>
+    <updated>2022-09-05T09:42:18.439Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;白骨粉碎 焦墨蒸腾 山脉横断文明线&lt;/p&gt;
+&lt;p&gt;无知无觉&lt;/p&gt;
+&lt;p&gt;鲜花着锦 鹅黄芽绿 群猿呼号而聚 挥汗如雨&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="诗歌" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E8%AF%97%E6%AD%8C/"/>
+    
+    
+    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="诗歌" scheme="http://example.com/tags/%E8%AF%97%E6%AD%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基石</title>
+    <link href="http://example.com/2022/09/05/%E5%9F%BA%E7%9F%B3/"/>
+    <id>http://example.com/2022/09/05/%E5%9F%BA%E7%9F%B3/</id>
+    <published>2022-09-05T09:37:32.000Z</published>
+    <updated>2022-09-05T09:40:41.108Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;剧痛咬紧 半滴血泪皱缩&lt;/p&gt;
+&lt;p&gt;魂魄出窍 一尊铅苦砸落&lt;/p&gt;
+&lt;p&gt;赤海灌顶 虹彩喘息破碎&lt;/p&gt;
+&lt;p&gt;腥雨压里 知觉情感散没&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="诗歌" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E8%AF%97%E6%AD%8C/"/>
+    
+    
+    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="诗歌" scheme="http://example.com/tags/%E8%AF%97%E6%AD%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>六月二十七日</title>
@@ -122,23 +173,24 @@
     <link href="http://example.com/2022/09/04/%E6%88%91%E4%B8%8D/"/>
     <id>http://example.com/2022/09/04/%E6%88%91%E4%B8%8D/</id>
     <published>2022-09-04T10:45:37.000Z</published>
-    <updated>2022-09-04T11:28:46.262Z</updated>
+    <updated>2022-09-04T12:56:22.867Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;如果</summary>
-        
-      
+    <summary type="html">&lt;p&gt;如果 土地上所有的共同生产&lt;/p&gt;
+&lt;p&gt;是世间一切的充分必要条件&lt;/p&gt;
+&lt;p&gt;流淌的星星除了浪涌&lt;/p&gt;
+&lt;p&gt;再也不会习得第二种语言，我只能&lt;/p&gt;</summary>
     
     
     
-    <category term="诗歌" scheme="http://example.com/categories/%E8%AF%97%E6%AD%8C/"/>
+    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
     
-    <category term="影间集" scheme="http://example.com/categories/%E8%AF%97%E6%AD%8C/%E5%BD%B1%E9%97%B4%E9%9B%86/"/>
+    <category term="诗歌" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E8%AF%97%E6%AD%8C/"/>
     
+    <category term="影间集" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E8%AF%97%E6%AD%8C/%E5%BD%B1%E9%97%B4%E9%9B%86/"/>
+    
+    
+    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
     
     <category term="诗歌" scheme="http://example.com/tags/%E8%AF%97%E6%AD%8C/"/>
     
@@ -183,6 +235,34 @@
     
     
     <category term="好唔！" scheme="http://example.com/tags/%E5%A5%BD%E5%94%94%EF%BC%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>星期零</title>
+    <link href="http://example.com/2022/06/05/%E6%98%9F%E6%9C%9F%E9%9B%B6/"/>
+    <id>http://example.com/2022/06/05/%E6%98%9F%E6%9C%9F%E9%9B%B6/</id>
+    <published>2022-06-05T12:53:58.000Z</published>
+    <updated>2022-09-04T12:56:21.515Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;我的四天是一星期&lt;/p&gt;
+&lt;p&gt;周一遍体鳞伤 周二搏杀苦痛&lt;/p&gt;
+&lt;p&gt;周三昂扬勃发 周四跌落悬崖&lt;/p&gt;
+&lt;p&gt;周而复始 周而复始&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="诗歌" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E8%AF%97%E6%AD%8C/"/>
+    
+    <category term="影间集" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E8%AF%97%E6%AD%8C/%E5%BD%B1%E9%97%B4%E9%9B%86/"/>
+    
+    
+    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="诗歌" scheme="http://example.com/tags/%E8%AF%97%E6%AD%8C/"/>
     
   </entry>
   
