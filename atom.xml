@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-09-05T09:42:18.439Z</updated>
+  <updated>2022-09-04T12:09:43.606Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,106 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>雨压</title>
-    <link href="http://example.com/2022/09/05/%E9%9B%A8%E5%8E%8B/"/>
-    <id>http://example.com/2022/09/05/%E9%9B%A8%E5%8E%8B/</id>
-    <published>2022-09-05T09:37:40.000Z</published>
-    <updated>2022-09-05T09:42:18.439Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;白骨粉碎 焦墨蒸腾 山脉横断文明线&lt;/p&gt;
-&lt;p&gt;无知无觉&lt;/p&gt;
-&lt;p&gt;鲜花着锦 鹅黄芽绿 群猿呼号而聚 挥汗如雨&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="诗歌" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E8%AF%97%E6%AD%8C/"/>
-    
-    
-    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="诗歌" scheme="http://example.com/tags/%E8%AF%97%E6%AD%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>基石</title>
-    <link href="http://example.com/2022/09/05/%E5%9F%BA%E7%9F%B3/"/>
-    <id>http://example.com/2022/09/05/%E5%9F%BA%E7%9F%B3/</id>
-    <published>2022-09-05T09:37:32.000Z</published>
-    <updated>2022-09-05T09:40:41.108Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;剧痛咬紧 半滴血泪皱缩&lt;/p&gt;
-&lt;p&gt;魂魄出窍 一尊铅苦砸落&lt;/p&gt;
-&lt;p&gt;赤海灌顶 虹彩喘息破碎&lt;/p&gt;
-&lt;p&gt;腥雨压里 知觉情感散没&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="诗歌" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E8%AF%97%E6%AD%8C/"/>
-    
-    
-    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="诗歌" scheme="http://example.com/tags/%E8%AF%97%E6%AD%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>六月二十七日</title>
-    <link href="http://example.com/2022/09/04/%E5%85%AD%E6%9C%88%E4%BA%8C%E5%8D%81%E4%B8%83%E6%97%A5/"/>
-    <id>http://example.com/2022/09/04/%E5%85%AD%E6%9C%88%E4%BA%8C%E5%8D%81%E4%B8%83%E6%97%A5/</id>
-    <published>2022-09-04T12:14:20.000Z</published>
-    <updated>2022-09-04T12:15:19.369Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;认知科学里有一个很有意思的结论：everything matters。它指的是一个人认知系统接收到的所有信息，都一定会对ta产生影响。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="博客" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>我把人的属性分为本质属性和派生属性。</title>
-    <link href="http://example.com/2022/09/04/%E6%88%91%E6%8A%8A%E4%BA%BA%E7%9A%84%E5%B1%9E%E6%80%A7%E5%88%86%E4%B8%BA%E6%9C%AC%E8%B4%A8%E5%B1%9E%E6%80%A7%E5%92%8C%E6%B4%BE%E7%94%9F%E5%B1%9E%E6%80%A7%E3%80%82/"/>
-    <id>http://example.com/2022/09/04/%E6%88%91%E6%8A%8A%E4%BA%BA%E7%9A%84%E5%B1%9E%E6%80%A7%E5%88%86%E4%B8%BA%E6%9C%AC%E8%B4%A8%E5%B1%9E%E6%80%A7%E5%92%8C%E6%B4%BE%E7%94%9F%E5%B1%9E%E6%80%A7%E3%80%82/</id>
-    <published>2022-09-04T12:11:11.000Z</published>
-    <updated>2022-09-04T12:13:09.905Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;本质属性是一种内在的递进的属性。某种抓在手上就永远都溜不走的东西。学识，领悟，性格，内驱，人格魅力，核心能力。&lt;/p&gt;
-&lt;p&gt;派生属性是在与社会的互动中某些特定的结构关系和现象赋给你的巧合的属性。学历，证书，金钱，职位，头衔。&lt;/p&gt;
-&lt;p&gt;高中政治书写“价格围绕价值，受供需影响上下波动。”&lt;/p&gt;
-&lt;p&gt;明白了吗？&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="博客" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
-  </entry>
   
   <entry>
     <title>讨论，视角与疆界</title>
@@ -292,6 +192,30 @@
   </entry>
   
   <entry>
+    <title>认知/偏见/受害/矛盾/考察</title>
+    <link href="http://example.com/2022/06/27/%E8%AE%A4%E7%9F%A5-%E5%81%8F%E8%A7%81-%E5%8F%97%E5%AE%B3-%E7%9F%9B%E7%9B%BE-%E8%80%83%E5%AF%9F/"/>
+    <id>http://example.com/2022/06/27/%E8%AE%A4%E7%9F%A5-%E5%81%8F%E8%A7%81-%E5%8F%97%E5%AE%B3-%E7%9F%9B%E7%9B%BE-%E8%80%83%E5%AF%9F/</id>
+    <published>2022-06-27T12:14:20.000Z</published>
+    <updated>2022-09-05T17:21:38.589Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;认知科学里有一个很有意思的结论：everything matters。它指的是一个人认知系统接收到的&lt;strong&gt;所有&lt;/strong&gt;信息，都&lt;strong&gt;一定&lt;/strong&gt;会对ta产生影响。&lt;/p&gt;
+&lt;p&gt;我认为这也同样是一个在公共视野中被极不相称地忽视的结论。问题在于，所有人在社会生活中无时无刻不在接收来自各色社会实体的信息，而这些信息稍后将沉入我们的意识底层，最终扮演某些至关重要进程的助推。</summary>
+    
+    
+    
+    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="博客" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
     <title>色彩集 · 一</title>
     <link href="http://example.com/2022/06/15/%E8%89%B2%E5%BD%A9%E9%9B%86-%C2%B7-%E4%B8%80/"/>
     <id>http://example.com/2022/06/15/%E8%89%B2%E5%BD%A9%E9%9B%86-%C2%B7-%E4%B8%80/</id>
@@ -316,6 +240,84 @@
     <category term="诗歌" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E8%AF%97%E6%AD%8C/"/>
     
     <category term="色彩集" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E8%AF%97%E6%AD%8C/%E8%89%B2%E5%BD%A9%E9%9B%86/"/>
+    
+    
+    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="诗歌" scheme="http://example.com/tags/%E8%AF%97%E6%AD%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>也谈学历</title>
+    <link href="http://example.com/2022/06/14/%E4%B9%9F%E8%B0%88%E5%AD%A6%E5%8E%86/"/>
+    <id>http://example.com/2022/06/14/%E4%B9%9F%E8%B0%88%E5%AD%A6%E5%8E%86/</id>
+    <published>2022-06-14T12:11:11.000Z</published>
+    <updated>2022-09-05T17:10:47.502Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;我把人的属性分为本质属性和派生属性。&lt;/p&gt;
+&lt;p&gt;本质属性是一种内在的递进的属性。某种抓在手上就永远都溜不走的东西。学识，领悟，性格，内驱，人格魅力，核心能力。&lt;/p&gt;
+&lt;p&gt;派生属性是在与社会的互动中某些特定的结构关系和现象赋给你的巧合的属性。学历，证书，金钱，职位，头衔。&lt;/p&gt;
+&lt;p&gt;高中政治书写“价格围绕价值，受供需影响上下波动。”&lt;/p&gt;
+&lt;p&gt;明白了吗？&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="博客" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基石</title>
+    <link href="http://example.com/2022/06/13/%E5%9F%BA%E7%9F%B3/"/>
+    <id>http://example.com/2022/06/13/%E5%9F%BA%E7%9F%B3/</id>
+    <published>2022-06-13T09:37:32.000Z</published>
+    <updated>2022-09-05T17:00:51.618Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;剧痛咬紧 半滴血泪皱缩&lt;/p&gt;
+&lt;p&gt;魂魄出窍 一尊铅苦砸落&lt;/p&gt;
+&lt;p&gt;赤海灌顶 虹彩喘息破碎&lt;/p&gt;
+&lt;p&gt;腥雨压里 知觉情感散没&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="诗歌" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E8%AF%97%E6%AD%8C/"/>
+    
+    
+    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="诗歌" scheme="http://example.com/tags/%E8%AF%97%E6%AD%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>雨压</title>
+    <link href="http://example.com/2022/06/06/%E9%9B%A8%E5%8E%8B/"/>
+    <id>http://example.com/2022/06/06/%E9%9B%A8%E5%8E%8B/</id>
+    <published>2022-06-06T09:37:40.000Z</published>
+    <updated>2022-09-05T17:00:37.105Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;白骨粉碎 焦墨蒸腾 山脉横断文明线&lt;/p&gt;
+&lt;p&gt;无知无觉&lt;/p&gt;
+&lt;p&gt;鲜花着锦 鹅黄芽绿 群猿呼号而聚 挥汗如雨&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="诗歌" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E8%AF%97%E6%AD%8C/"/>
     
     
     <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
