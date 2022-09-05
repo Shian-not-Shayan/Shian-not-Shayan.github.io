@@ -171,7 +171,7 @@
     <link href="http://example.com/2022/06/27/%E8%AE%A4%E7%9F%A5-%E5%81%8F%E8%A7%81-%E5%8F%97%E5%AE%B3-%E7%9F%9B%E7%9B%BE-%E8%80%83%E5%AF%9F/"/>
     <id>http://example.com/2022/06/27/%E8%AE%A4%E7%9F%A5-%E5%81%8F%E8%A7%81-%E5%8F%97%E5%AE%B3-%E7%9F%9B%E7%9B%BE-%E8%80%83%E5%AF%9F/</id>
     <published>2022-06-27T12:14:20.000Z</published>
-    <updated>2022-09-05T17:21:38.589Z</updated>
+    <updated>2022-09-05T17:45:14.206Z</updated>
     
     
     <summary type="html">&lt;p&gt;认知科学里有一个很有意思的结论：everything matters。它指的是一个人认知系统接收到的&lt;strong&gt;所有&lt;/strong&gt;信息，都&lt;strong&gt;一定&lt;/strong&gt;会对ta产生影响。&lt;/p&gt;
@@ -181,12 +181,12 @@
     
     <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
     
-    <category term="博客" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="论述文" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
     
     
     <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
     
-    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="论述文" scheme="http://example.com/tags/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
     
   </entry>
   
