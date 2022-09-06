@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-09-05T17:40:31.859Z</updated>
+  <updated>2022-09-06T04:36:46.428Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>学习 · 语言学习合集</title>
+    <link href="http://example.com/2022/09/06/%E5%AD%A6%E4%B9%A0-%C2%B7-%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E5%90%88%E9%9B%86/"/>
+    <id>http://example.com/2022/09/06/%E5%AD%A6%E4%B9%A0-%C2%B7-%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E5%90%88%E9%9B%86/</id>
+    <published>2022-09-06T04:36:46.000Z</published>
+    <updated>2022-09-06T04:36:46.428Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>我不</title>
@@ -136,9 +149,9 @@
     
     <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
     
-    <category term="影评" scheme="http://example.com/tags/%E5%BD%B1%E8%AF%84/"/>
-    
     <category term="论述文" scheme="http://example.com/tags/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
+    
+    <category term="影评" scheme="http://example.com/tags/%E5%BD%B1%E8%AF%84/"/>
     
   </entry>
   
@@ -353,6 +366,38 @@
   </entry>
   
   <entry>
+    <title>学习 · 语言学习其四（最终章）</title>
+    <link href="http://example.com/2022/05/24/%E5%AD%A6%E4%B9%A0-%C2%B7-%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E5%85%B6%E5%9B%9B%EF%BC%88%E6%9C%80%E7%BB%88%E7%AB%A0%EF%BC%89/"/>
+    <id>http://example.com/2022/05/24/%E5%AD%A6%E4%B9%A0-%C2%B7-%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E5%85%B6%E5%9B%9B%EF%BC%88%E6%9C%80%E7%BB%88%E7%AB%A0%EF%BC%89/</id>
+    <published>2022-05-24T04:36:34.000Z</published>
+    <updated>2022-09-06T04:58:52.311Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;以两个语言学习方法作结。它们都有极高的综合性、广度和深度，但对学习者提出的挑战也同样广泛而深刻。无法立刻实践完整版的朋友们可以酌情对一些部分进行删减或修改。&lt;/p&gt;
+&lt;p&gt;第一个方法聚焦在阅读层面。它在实质上是一种“精读”这一概念的超激进实践（我称之为“超慢速阅读”），即，</summary>
+        
+      
+    
+    
+    
+    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="论述文" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
+    
+    
+    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="语言教学" scheme="http://example.com/tags/%E8%AF%AD%E8%A8%80%E6%95%99%E5%AD%A6/"/>
+    
+    <category term="论述文" scheme="http://example.com/tags/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
+    
+  </entry>
+  
+  <entry>
     <title>逃离滑铁卢CS Double Degree</title>
     <link href="http://example.com/2022/05/18/%E9%80%83%E7%A6%BB%E6%BB%91%E9%93%81%E5%8D%A2CS-Double-Degree/"/>
     <id>http://example.com/2022/05/18/%E9%80%83%E7%A6%BB%E6%BB%91%E9%93%81%E5%8D%A2CS-Double-Degree/</id>
@@ -374,6 +419,38 @@
     <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
     
     <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学习 · 语言学习其三</title>
+    <link href="http://example.com/2022/05/16/%E5%AD%A6%E4%B9%A0-%C2%B7-%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E5%85%B6%E4%B8%89/"/>
+    <id>http://example.com/2022/05/16/%E5%AD%A6%E4%B9%A0-%C2%B7-%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E5%85%B6%E4%B8%89/</id>
+    <published>2022-05-16T04:35:51.000Z</published>
+    <updated>2022-09-06T04:58:54.257Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;从一个不一样的角度讲起：我作为语言教学者的体验。&lt;/p&gt;
+&lt;p&gt;先引一段Philip</summary>
+        
+      
+    
+    
+    
+    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="论述文" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
+    
+    
+    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="语言教学" scheme="http://example.com/tags/%E8%AF%AD%E8%A8%80%E6%95%99%E5%AD%A6/"/>
+    
+    <category term="论述文" scheme="http://example.com/tags/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
     
   </entry>
   
@@ -403,6 +480,71 @@
   </entry>
   
   <entry>
+    <title>学习 · 语言学习其二</title>
+    <link href="http://example.com/2022/05/12/%E5%AD%A6%E4%B9%A0-%C2%B7-%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E5%85%B6%E4%BA%8C/"/>
+    <id>http://example.com/2022/05/12/%E5%AD%A6%E4%B9%A0-%C2%B7-%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E5%85%B6%E4%BA%8C/</id>
+    <published>2022-05-12T04:35:51.000Z</published>
+    <updated>2022-09-06T04:58:55.858Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;（二）&lt;/p&gt;
+&lt;p&gt;在这个问题的解决上，我个人的方法论探索主要聚焦在两个层面：学习结构的内生动机管理和学习目标的内生动机管理。尽管主要应用于自学活动和内驱系统复健，略微出人意料的是，这两种层面的共同实践同时可以在部分程度上抵抗前述教育模版运作时带来的内驱系统失范。&lt;/p&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="论述文" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
+    
+    
+    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="语言教学" scheme="http://example.com/tags/%E8%AF%AD%E8%A8%80%E6%95%99%E5%AD%A6/"/>
+    
+    <category term="论述文" scheme="http://example.com/tags/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学习 · 语言学习其一</title>
+    <link href="http://example.com/2022/05/07/%E5%AD%A6%E4%B9%A0-%C2%B7-%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E5%85%B6%E4%B8%80/"/>
+    <id>http://example.com/2022/05/07/%E5%AD%A6%E4%B9%A0-%C2%B7-%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E5%85%B6%E4%B8%80/</id>
+    <published>2022-05-07T04:27:15.000Z</published>
+    <updated>2022-09-06T04:35:18.531Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这几天在给学生答疑的时候发现了很多有意思的误区和疑问。想了想决定大概写个小集子，着重谈一下好的学习者，好的语言学习者和好的（语言）学习方式。&lt;/p&gt;
+&lt;p&gt;！！！前方极端主观警告！！！&lt;/p&gt;
+&lt;p&gt;————————————————————分割线——————————————</summary>
+        
+      
+    
+    
+    
+    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="论述文" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
+    
+    
+    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="语言教学" scheme="http://example.com/tags/%E8%AF%AD%E8%A8%80%E6%95%99%E5%AD%A6/"/>
+    
+    <category term="论述文" scheme="http://example.com/tags/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
+    
+  </entry>
+  
+  <entry>
     <title>狂怒绽放</title>
     <link href="http://example.com/2022/04/30/%E7%8B%82%E6%80%92%E7%BB%BD%E6%94%BE/"/>
     <id>http://example.com/2022/04/30/%E7%8B%82%E6%80%92%E7%BB%BD%E6%94%BE/</id>
@@ -424,60 +566,6 @@
     <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
     
     <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>痛苦不是礼物。</title>
-    <link href="http://example.com/2022/04/26/%E7%97%9B%E8%8B%A6%E4%B8%8D%E6%98%AF%E7%A4%BC%E7%89%A9%E3%80%82/"/>
-    <id>http://example.com/2022/04/26/%E7%97%9B%E8%8B%A6%E4%B8%8D%E6%98%AF%E7%A4%BC%E7%89%A9%E3%80%82/</id>
-    <published>2022-04-26T12:24:13.000Z</published>
-    <updated>2022-09-04T12:30:51.369Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;今天是我二十岁生日。骂了“生日”这个语词披着仪式感外皮的刻奇骂了七八年，却误打误撞在这时刻收到了某些无与伦比的礼物。&lt;/p&gt;
-&lt;p&gt;尼采有句话叫“杀不死你的必使你强大。”这句话被广泛而深刻地误解。许多精神绵羊以此为开脱试图理性化生活中的悲惨。“生活就是这样。”或者，“没什么大不了的。”“狗咬你难道还咬回去吗？”&lt;/p&gt;
-&lt;p&gt;我作为一个中度抑郁轻度焦虑疑似PTSD患者负责任地告诉绵羊们：杀不死你的下次就他妈杀死你。环伺的狼群从来都盯着老弱病羊；红口白牙的天地里，没有谁介意猎物又怯懦又散发着将死的尸臭。&lt;/p&gt;
-&lt;p&gt;是的：你的肠子会被挖出来在白雪上拖出红红绿绿的现代艺术。你的动脉血会绽出小小的精致的血色喷泉。它真的很小因为你本来就活不了几天。&lt;/p&gt;
-&lt;p&gt;这种对加害的原谅带着一种荒谬的怪异。&lt;br&gt;荒谬，因为这是投降；怪异，因为这是自杀。&lt;br&gt;所以杀不死你的不使你强大。&lt;/p&gt;
-&lt;p&gt;除非你自己强大。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="博客" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>关于英语和语言</title>
-    <link href="http://example.com/2022/04/13/%E5%85%B3%E4%BA%8E%E8%8B%B1%E8%AF%AD%E5%92%8C%E8%AF%AD%E8%A8%80/"/>
-    <id>http://example.com/2022/04/13/%E5%85%B3%E4%BA%8E%E8%8B%B1%E8%AF%AD%E5%92%8C%E8%AF%AD%E8%A8%80/</id>
-    <published>2022-04-13T01:38:30.000Z</published>
-    <updated>2022-09-06T01:48:44.795Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;从一个小故事说起。&lt;br&gt;大概两个月前的某个晚上我熬夜在打sunless sea。恐惧值管理大失败后我被船员扔出舷窗，砸碎玻璃沉到海里。”to no avail,” 它这么形容我的挣扎。我打开wiktionary搜索avail后，心路历程大概是这样的：&lt;/p&gt;
-&lt;p&gt;“valid valor avail value 还有valence valiant全是同源词；</summary>
-    
-    
-    
-    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="博客" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
-    <category term="语言教学" scheme="http://example.com/tags/%E8%AF%AD%E8%A8%80%E6%95%99%E5%AD%A6/"/>
     
   </entry>
   
