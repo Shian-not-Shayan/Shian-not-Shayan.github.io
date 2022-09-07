@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-09-06T04:36:46.428Z</updated>
+  <updated>2022-09-07T03:51:47.561Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>花园地图</title>
+    <link href="http://example.com/2022/09/07/%E8%8A%B1%E5%9B%AD%E5%9C%B0%E5%9B%BE/"/>
+    <id>http://example.com/2022/09/07/%E8%8A%B1%E5%9B%AD%E5%9C%B0%E5%9B%BE/</id>
+    <published>2022-09-07T02:04:44.000Z</published>
+    <updated>2022-09-07T03:51:47.561Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;一份游览花园的终极指南。&quot;&gt;&lt;a href=&quot;#一份游览花园的终极指南。&quot; class=&quot;headerlink&quot; title=&quot;一份游览花园的终极指南。&quot;&gt;&lt;/a&gt;一份游览花园的终极指南。&lt;/h1&gt;</summary>
+    
+    
+    
+    
+    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="语言教学" scheme="http://example.com/tags/%E8%AF%AD%E8%A8%80%E6%95%99%E5%AD%A6/"/>
+    
+    <category term="诗歌" scheme="http://example.com/tags/%E8%AF%97%E6%AD%8C/"/>
+    
+    <category term="论述文" scheme="http://example.com/tags/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
+    
+    <category term="影评" scheme="http://example.com/tags/%E5%BD%B1%E8%AF%84/"/>
+    
+  </entry>
   
   <entry>
     <title>学习 · 语言学习合集</title>
@@ -370,7 +397,7 @@
     <link href="http://example.com/2022/05/24/%E5%AD%A6%E4%B9%A0-%C2%B7-%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E5%85%B6%E5%9B%9B%EF%BC%88%E6%9C%80%E7%BB%88%E7%AB%A0%EF%BC%89/"/>
     <id>http://example.com/2022/05/24/%E5%AD%A6%E4%B9%A0-%C2%B7-%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E5%85%B6%E5%9B%9B%EF%BC%88%E6%9C%80%E7%BB%88%E7%AB%A0%EF%BC%89/</id>
     <published>2022-05-24T04:36:34.000Z</published>
-    <updated>2022-09-06T04:58:52.311Z</updated>
+    <updated>2022-09-07T02:17:30.559Z</updated>
     
     
       
@@ -541,31 +568,6 @@
     <category term="语言教学" scheme="http://example.com/tags/%E8%AF%AD%E8%A8%80%E6%95%99%E5%AD%A6/"/>
     
     <category term="论述文" scheme="http://example.com/tags/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>狂怒绽放</title>
-    <link href="http://example.com/2022/04/30/%E7%8B%82%E6%80%92%E7%BB%BD%E6%94%BE/"/>
-    <id>http://example.com/2022/04/30/%E7%8B%82%E6%80%92%E7%BB%BD%E6%94%BE/</id>
-    <published>2022-04-30T04:25:06.000Z</published>
-    <updated>2022-09-06T01:32:34.777Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;strong&gt;歌舞升平小王子&amp;#x2F;公主们确实不为无关人等的苦难负任何责任。&lt;/strong&gt;只是说，在那些无眠的夜里我的朋友们或冷静地或痛哭着向我敞开，我清楚地看见有多少伤口一直以来都在流血。它们中的很多再也不会痊愈。  &lt;/p&gt;
-&lt;p&gt;那些时刻我震颤着领悟到恶意和暴力在这世界上存在。这世界上有人被强奸。这世界上有人被长期虐待。这世界上有人处于极度的贫穷中，挣扎到骨髓都爆出来仍不得解脱。这世界上有人被谋杀，无论法律是不是如此承认。这世界上有人无法承受而自杀，有些失败了而不得不继续忍受精神和肉体的双重后遗症，而另一些成功者的故事由爱着他们而疼痛彻骨的人来诉说。  &lt;/p&gt;
-&lt;p&gt;或者无人诉说。  &lt;/p&gt;</summary>
-    
-    
-    
-    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="博客" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
-    
-    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
