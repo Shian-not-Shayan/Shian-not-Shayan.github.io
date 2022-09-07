@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-09-07T04:31:05.922Z</updated>
+  <updated>2022-09-05T17:40:31.859Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,22 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>学习 · 语言学习合集</title>
-    <link href="http://example.com/2022/09/06/%E5%AD%A6%E4%B9%A0-%C2%B7-%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E5%90%88%E9%9B%86/"/>
-    <id>http://example.com/2022/09/06/%E5%AD%A6%E4%B9%A0-%C2%B7-%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E5%90%88%E9%9B%86/</id>
-    <published>2022-09-06T04:36:46.000Z</published>
-    <updated>2022-09-07T04:31:05.922Z</updated>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;（一）&quot;&gt;&lt;a href=&quot;#（一）&quot; class=&quot;headerlink&quot; title=&quot;（一）&quot;&gt;&lt;/a&gt;（一）&lt;/h2&gt;&lt;p&gt;这几天在给学生答疑的时候发现了很多有意思的误区和疑问。想了想决定大概写个小集子，着重谈一下好的学习者，好的语言学习者和好的（语言）学习方式。&lt;/p&gt;
-&lt;p&gt;大多数国家的初高中里一种典型教育模版是，在一段时间内对某个知识模块进行渐进的教学，然后测验；一些变体在期中期末加入大测验。这是一种典型的系统范式。即，先确立目标（达成某个教育水平的人），对现有水平进行评估（入学测验），再以一定的计划（教学和考试）在这两者之间架起桥梁。&lt;/p&gt;</summary>
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>我不</title>
@@ -369,6 +353,32 @@
   </entry>
   
   <entry>
+    <title>学习 · 语言学习合集</title>
+    <link href="http://example.com/2022/05/24/%E5%AD%A6%E4%B9%A0-%C2%B7-%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E5%90%88%E9%9B%86/"/>
+    <id>http://example.com/2022/05/24/%E5%AD%A6%E4%B9%A0-%C2%B7-%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E5%90%88%E9%9B%86/</id>
+    <published>2022-05-24T04:36:40.000Z</published>
+    <updated>2022-09-07T04:32:25.939Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;（一）&quot;&gt;&lt;a href=&quot;#（一）&quot; class=&quot;headerlink&quot; title=&quot;（一）&quot;&gt;&lt;/a&gt;（一）&lt;/h2&gt;&lt;p&gt;这几天在给学生答疑的时候发现了很多有意思的误区和疑问。想了想决定大概写个小集子，着重谈一下好的学习者，好的语言学习者和好的（语言）学习方式。&lt;/p&gt;
+&lt;p&gt;大多数国家的初高中里一种典型教育模版是，在一段时间内对某个知识模块进行渐进的教学，然后测验；一些变体在期中期末加入大测验。这是一种典型的系统范式。即，先确立目标（达成某个教育水平的人），对现有水平进行评估（入学测验），再以一定的计划（教学和考试）在这两者之间架起桥梁。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="论述文" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
+    
+    
+    <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
+    
+    <category term="论述文" scheme="http://example.com/tags/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
+    
+    <category term="语言教学" scheme="http://example.com/tags/%E8%AF%AD%E8%A8%80%E6%95%99%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>学习 · 语言学习其四（最终章）</title>
     <link href="http://example.com/2022/05/24/%E5%AD%A6%E4%B9%A0-%C2%B7-%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E5%85%B6%E5%9B%9B%EF%BC%88%E6%9C%80%E7%BB%88%E7%AB%A0%EF%BC%89/"/>
     <id>http://example.com/2022/05/24/%E5%AD%A6%E4%B9%A0-%C2%B7-%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E5%85%B6%E5%9B%9B%EF%BC%88%E6%9C%80%E7%BB%88%E7%AB%A0%EF%BC%89/</id>
@@ -388,9 +398,9 @@
     
     <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
     
-    <category term="语言教学" scheme="http://example.com/tags/%E8%AF%AD%E8%A8%80%E6%95%99%E5%AD%A6/"/>
-    
     <category term="论述文" scheme="http://example.com/tags/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
+    
+    <category term="语言教学" scheme="http://example.com/tags/%E8%AF%AD%E8%A8%80%E6%95%99%E5%AD%A6/"/>
     
   </entry>
   
@@ -439,9 +449,9 @@
     
     <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
     
-    <category term="语言教学" scheme="http://example.com/tags/%E8%AF%AD%E8%A8%80%E6%95%99%E5%AD%A6/"/>
-    
     <category term="论述文" scheme="http://example.com/tags/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
+    
+    <category term="语言教学" scheme="http://example.com/tags/%E8%AF%AD%E8%A8%80%E6%95%99%E5%AD%A6/"/>
     
   </entry>
   
@@ -490,9 +500,9 @@
     
     <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
     
-    <category term="语言教学" scheme="http://example.com/tags/%E8%AF%AD%E8%A8%80%E6%95%99%E5%AD%A6/"/>
-    
     <category term="论述文" scheme="http://example.com/tags/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
+    
+    <category term="语言教学" scheme="http://example.com/tags/%E8%AF%AD%E8%A8%80%E6%95%99%E5%AD%A6/"/>
     
   </entry>
   
@@ -516,9 +526,9 @@
     
     <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
     
-    <category term="语言教学" scheme="http://example.com/tags/%E8%AF%AD%E8%A8%80%E6%95%99%E5%AD%A6/"/>
-    
     <category term="论述文" scheme="http://example.com/tags/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
+    
+    <category term="语言教学" scheme="http://example.com/tags/%E8%AF%AD%E8%A8%80%E6%95%99%E5%AD%A6/"/>
     
   </entry>
   
