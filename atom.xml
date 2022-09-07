@@ -33,9 +33,9 @@
     
     <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
     
-    <category term="语言教学" scheme="http://example.com/tags/%E8%AF%AD%E8%A8%80%E6%95%99%E5%AD%A6/"/>
-    
     <category term="诗歌" scheme="http://example.com/tags/%E8%AF%97%E6%AD%8C/"/>
+    
+    <category term="语言教学" scheme="http://example.com/tags/%E8%AF%AD%E8%A8%80%E6%95%99%E5%AD%A6/"/>
     
     <category term="论述文" scheme="http://example.com/tags/%E8%AE%BA%E8%BF%B0%E6%96%87/"/>
     
