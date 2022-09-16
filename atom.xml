@@ -228,7 +228,7 @@
     <link href="http://example.com/2022/06/14/%E4%B9%9F%E8%B0%88%E5%AD%A6%E5%8E%86/"/>
     <id>http://example.com/2022/06/14/%E4%B9%9F%E8%B0%88%E5%AD%A6%E5%8E%86/</id>
     <published>2022-06-14T12:11:11.000Z</published>
-    <updated>2022-09-05T17:10:47.502Z</updated>
+    <updated>2022-09-16T08:25:01.530Z</updated>
     
     
     <summary type="html">&lt;p&gt;我把人的属性分为本质属性和派生属性。&lt;/p&gt;
@@ -241,12 +241,12 @@
     
     <category term="写作" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/"/>
     
-    <category term="博客" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="随笔" scheme="http://example.com/categories/%E5%86%99%E4%BD%9C/%E9%9A%8F%E7%AC%94/"/>
     
     
     <category term="写作" scheme="http://example.com/tags/%E5%86%99%E4%BD%9C/"/>
     
-    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
